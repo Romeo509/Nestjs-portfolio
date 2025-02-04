@@ -10,9 +10,9 @@ Each module is well-documented, ensuring clarity in implementation, deployment, 
 
 ## Objectives
 
-### 1. User Authentication API
-- Implement JWT-based authentication using NestJS Passport.
-- Support login, registration, password reset, and role-based access control (RBAC).
+### 1. Email Verification API with OTP
+- A simple email verification system using a one-time password (OTP).
+- The backend is built with NestJS and handles email OTP generation and verification.
 
 ### 2. Task Management API
 - Enable users to create, update, delete, and track tasks.
